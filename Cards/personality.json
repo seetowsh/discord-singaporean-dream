@@ -1,4 +1,47 @@
-{
-
-
-}
+[
+  {
+    "name": "Aunty",
+    "power": "Damn kiasu. Look at the first 3 dream cards in the dream pile and buy 1 dream at the discounted price of $200k",
+    "dreams": ["Strike 4D", "Cash out CPF"]
+  },
+  {
+    "name": "NSF",
+    "power": "Defend your nation and do 10 pushups to protect 2 dreams for 1 round",
+    "dreams": ["Open table at Zouk", "Don’t lose gf during NS"]
+  },
+  {
+    "name": "PSLE Top Scorer",
+    "power": "Tuition fees. Discard any action card from your hand to protect all your dreams for 1 round",
+    "dreams": ["2 points for O Levels", "University scholarship"]
+  },
+  {
+    "name": "Influencer",
+    "power": "Sponsorship. Take a photo of this message, post to Instagram with hashtag #discordtsd and choose a player to buy you a dream.",
+    "dreams": ["Wedding sponsorship", "Wedding sponsorship"]
+  },
+  {
+    "name": "Ah Beng",
+    "power": "O$P$. Force a player to give you a cash card of their choice from their bank. Dreams cannot be taken as cash",
+    "dreams": ["Buy a sports car", "Get BTO flat on first try"]
+  },
+  {
+    "name": "High Flyer",
+    "power": "Year end bonus. Take a cash card from the discard pile.",
+    "dreams": ["Become a CEO", "Unlimited annual leave"]
+  },
+  {
+    "name": "Hawker",
+    "power": "Morning wet market - draw the top 3 cards from the action pile and keep 1",
+    "dreams": ["Take photo with celebrity", "Pass down family business"]
+  },
+  {
+    "name": "Air Stewardess",
+    "power": "Coffee or tea? - Choose to draw 1 card from the action pile OR pick 1 cash card from the discard pile",
+    "dreams": ["Marry a pilot", "Baby don’t cry on flight"]
+  },
+  {
+    "name": "Insurance Agent",
+    "power": "Peek at target player’s hand and swap 1 card",
+    "dreams": ["People stop to listen", "Go on incentive trip"]
+  }
+]
